@@ -24,7 +24,7 @@ catalogue=glob.glob(input_dir+"*fasta")
 
 # Create a shorter list for testing purposes #
 
-#catalogue=catalogue[0:100]
+#catalogue=catalogue[0:3]
 
 #print(catalogue)
 
